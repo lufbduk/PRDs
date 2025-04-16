@@ -46,8 +46,8 @@ pnpm run build
 ## 📜 License
 
 This repository adopts a dual-license system:
-- **Documentation Content** (under the `/press` dir): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-- **Source Code** (out of the `/press` dir): [MIT License](LICENSE-CODE)
+- **Documentation Content** (under the `/press` and `/docs` dir): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+- **Source Code** (out of the `/press` and `/docs` dir): [MIT License](LICENSE-CODE)
 
 ## ⚠️ Guidelines
 1. Maintain clear document structure in submissions

@@ -7,7 +7,7 @@
 
 ```
 PRDs/
-├── press/                # 原始文档目录（使用Obsidian编辑）
+├── press/               # 原始文档目录（使用Obsidian编辑）
 │   ├── .obsidian/       # Obsidian编辑器配置
 │   └── ...              # 各分类文档
 ├── docs/                # Vitepress构建后的静态网站

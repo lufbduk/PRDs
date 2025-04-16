@@ -47,8 +47,8 @@ pnpm run build
 ## 📜 开源协议
 
 本仓库采用双协议制：
-- **文档内容**：[CC BY-NC-SA 4.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-- **程序代码**：[MIT License](LICENSE-CODE)
+- **文档内容** (适用于 `/press` 和 `/docs` 目录之中的文件)：[CC BY-NC-SA 4.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+- **程序代码** (适用于 `/press` 和 `/docs` 目录以外的文件)：[MIT License](LICENSE-CODE)
 
 ## ⚠️ 注意事项
 1. 提交内容请保持文档结构清晰

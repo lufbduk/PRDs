@@ -1,5 +1,7 @@
 # PRDs Product Requirements Repository
 
+[[中文](/README-CN.md)]
+
 An open repository for product inspiration, storing various product requirement documents (PRDs) and prototype concepts. Developers, product managers, and enthusiasts are welcome to collaborate in transforming these textual descriptions into implementable products.
 
 ## 📂 Directory Structure

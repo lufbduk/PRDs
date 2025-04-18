@@ -1,7 +1,7 @@
 
-<center><img src="/press/public/logo.avif" alt="PRDs-logo" width="320px"/></center>
-
 # PRDs Product Requirements Repository
+
+<p align="center"><img src="/press/public/logo.avif" alt="PRDs-logo" width="320px"/></p>
 
 [[中文](/README-CN.md)]
 

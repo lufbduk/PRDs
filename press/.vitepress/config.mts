@@ -15,10 +15,14 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'PRDs - 开源产品需求文档集合' }],
     ['meta', { property: 'og:description', content: '提供开源PRD文档，包括MSFP、MDCP、TechAgent、KBSC和Proactive Assistant等创新技术方案' }],
-    ['meta', { property: 'og:image', content: 'https://github.com/lufbduk/PRDs/blob/main/logo.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'PRDs - 开源产品需求文档集合' }],
     ['meta', { name: 'twitter:description', content: '提供开源PRD文档，包括MSFP、MDCP、TechAgent、KBSC和Proactive Assistant等创新技术方案' }],
+
+    // ['meta', { property: 'og:image', content: 'https://github.com/lufbduk/PRDs/blob/main/logo.png' }],
+
+    ['link', { rel: 'icon', href: '/PRDs/logo.webp' }],
+    ['link', { rel: 'apple-touch-icon', href: '/PRDs/apple-touch-icon.png' }],
   ],
 
   base: '/PRDs/',
@@ -26,6 +30,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.avif',
     nav: [
       { text: '首页', link: '/' },
       { text: '关于', link: '/about' },

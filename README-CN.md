@@ -1,5 +1,5 @@
 
-![PRDs-logo](/press/public/logo.avif)
+<center><img src="/press/public/logo.avif" alt="PRDs-logo" width="320px"/></center>
 
 # PRDs 产品需求库
 

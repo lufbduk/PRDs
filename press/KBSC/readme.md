@@ -1,0 +1,31 @@
+# KBSC - KnowledgeBase of Sufficient Conditions
+
+> **注意：此文件由AI（GitHub Copilot）生成**
+
+关于【「完成某件事的充分条件」的 JSON-Schema 定义、TypeScript Interface 定义，以及 Zod 定义】的知识库。
+
+## 简介
+
+KBSC项目旨在建立一个标准化的知识库，用于定义和管理各种操作的"充分条件"。通过使用JSON-Schema、TypeScript接口和Zod验证，它为开发者提供了一种结构化的方式来表达和验证完成特定任务所需的条件。
+
+## 核心概念
+
+- 充分条件：确保任务成功完成所需的最小条件集
+- 模式定义：使用JSON-Schema、TypeScript和Zod的多语言定义
+- 条件验证：条件满足性的自动化验证机制
+
+## 使用方法
+
+待补充
+
+## 示例
+
+待补充
+
+## 贡献指南
+
+待补充
+
+## 许可证
+
+待定

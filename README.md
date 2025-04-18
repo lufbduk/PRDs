@@ -32,6 +32,10 @@ Deployed via GitHub Pages:
 - Report documentation errors or technical issues
 - Participate in existing discussions
 
+## ⚠️ AI-Generated Content Disclaimer
+
+Some content in this repository has been generated or assisted by artificial intelligence tools. While we strive to ensure accuracy and quality, certain sections may require further human review and refinement. If you identify any issues or have suggestions for improvements, please submit an Issue or Pull Request.
+
 ## 🛠️ Local Development
 
 ```bash

@@ -27,6 +27,9 @@ export default defineConfig({
 
   base: '/PRDs/',
   outDir: '../docs',
+  rewrites: {
+    ':proj/readme.md': ':proj/index.md',
+  },
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -40,28 +43,23 @@ export default defineConfig({
         { text: '清单', link: '/list' },
       ]},
       { text: 'MDCP', items: [
-        { text: 'MDCP 首页', link: '/MDCP/' },
-        { text: 'MDCP 说明', link: '/MDCP/readme' },
+        { text: 'MDCP 简介', link: '/MDCP' },
       ]},
       { text: 'MSFP', items: [
-        { text: 'MSFP 首页', link: '/MSFP/' },
-        { text: 'MSFP 说明', link: '/MSFP/readme' },
+        { text: 'MSFP 简介', link: '/MSFP' },
         { text: '静态获取协议(DeepSeek)', link: '/MSFP/Model-Static-Fetch-Protocol--by-deepseek' },
       ]},
       // 以下为AI生成的导航项 - TechAgent
       { text: 'TechAgent', items: [
-        { text: 'TechAgent 首页', link: '/TechAgent/' },
-        { text: 'TechAgent 说明', link: '/TechAgent/readme' },
+        { text: 'TechAgent 简介', link: '/TechAgent' },
       ]},
       // 以下为AI生成的导航项 - KBSC
       { text: 'KBSC', items: [
-        { text: 'KBSC 首页', link: '/KBSC/' },
-        { text: 'KBSC 说明', link: '/KBSC/readme' },
+        { text: 'KBSC 简介', link: '/KBSC' },
       ]},
       // 以下为AI生成的导航项 - Proactive Assistant
       { text: 'Proactive Assistant', items: [
-        { text: 'Proactive Assistant 首页', link: '/proactive-assistant/' },
-        { text: 'Proactive Assistant 说明', link: '/proactive-assistant/readme' },
+        { text: 'Proactive Assistant 简介', link: '/proactive-assistant' },
       ]},
       { text: '示例文档', items: [
         { text: 'Markdown Examples', link: '/markdown-examples' },

@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev press",
     "build": "vitepress build press",
+    "preview": "vitepress preview press",
     "press:dev": "vitepress dev press",
     "press:build": "vitepress build press",
     "press:preview": "vitepress preview press"

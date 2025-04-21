@@ -61,10 +61,6 @@ export default defineConfig({
       { text: 'Proactive Assistant', items: [
         { text: 'Proactive Assistant 简介', link: '/proactive-assistant' },
       ]},
-      { text: '示例文档', items: [
-        { text: 'Markdown Examples', link: '/markdown-examples' },
-        { text: 'Runtime API Examples', link: '/api-examples' },
-      ]},
     ],
 
     socialLinks: [

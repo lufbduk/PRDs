@@ -7,6 +7,16 @@
 
 这是一个开放的产品灵感记录库，主要存放各类产品需求文档（PRD）和原型构想。欢迎开发者、产品经理和爱好者共同参与完善，期待将这些文字描述转化为可落地的产品。
 
+## 📑 可用项目
+
+以下是本仓库中当前提供的项目：
+
+- **[MSFP](https://lufbduk.github.io/PRDs/MSFP)** - 模型静态取件协议：以静态网络资源的形式实现的 ServerFree AI 工具协议。轻量的静态版 MCP 替代品。
+- **[MDCP](https://lufbduk.github.io/PRDs/MDCP)** - Markdown代码块插件：在 Markdown 中以代码插件的形式实现的插件系统，如果没有安装相应插件，则渲染成代码块，因此可以在任何 Markdown 渲染器中使用（参考 Mermaid 的实现原理）。该方案是 MDX 的替代方案。
+- **[TechAgent](https://lufbduk.github.io/PRDs/TechAgent)** - 技术方案数据源和收集器 Agent。
+- **[KBSC](https://lufbduk.github.io/PRDs/KBSC)** - KnowledgeBase of Sufficient Conditions：关于【「完成某件事的充分条件」的 JSON-Schema 定义、TypeScript Interface 定义，以及 Zod 定义】的知识库。
+- **[Proactive Assistant](https://lufbduk.github.io/PRDs/proactive-assistant)** - 主动型AI助理。
+
 ## 📂 目录结构
 
 ```

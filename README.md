@@ -7,6 +7,16 @@
 
 An open repository for product inspiration, storing various product requirement documents (PRDs) and prototype concepts. Developers, product managers, and enthusiasts are welcome to collaborate in transforming these textual descriptions into implementable products.
 
+## 📑 Available Projects
+
+Here are the current projects available in this repository:
+
+- **[MSFP](https://lufbduk.github.io/PRDs/MSFP)** - Model Static Fetch Protocol: A ServerFree AI tool protocol implemented as static network resources. A lightweight static alternative to MCP.
+- **[MDCP](https://lufbduk.github.io/PRDs/MDCP)** - Markdown Code Block Plugin: A plugin system implemented as code plugins in Markdown. Renders as code blocks if no plugin is installed, usable in any Markdown renderer (similar to Mermaid). An alternative to MDX.
+- **[TechAgent](https://lufbduk.github.io/PRDs/TechAgent)** - Technical solution data source and collector agent.
+- **[KBSC](https://lufbduk.github.io/PRDs/KBSC)** - KnowledgeBase of Sufficient Conditions: Knowledge base for JSON-Schema definitions, TypeScript interfaces, and Zod definitions of "sufficient conditions for completing tasks".
+- **[Proactive Assistant](https://lufbduk.github.io/PRDs/proactive-assistant)** - Proactive AI assistant.
+
 ## 📂 Directory Structure
 
 ```
